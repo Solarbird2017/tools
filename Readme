@@ -1,0 +1,1 @@
+1. Convert VOT image dataset to video dataset. Add the groundtruth file to the same folder to check the ground truth tracking results.
